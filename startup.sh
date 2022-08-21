@@ -2,4 +2,4 @@
 
 konsole &
 sleep 2 &&
-xdotool type "python /home/fiona/Projects/startup_scripts/startup_scripts.py"; xdotool key Return
+xdotool type "python /home/fiona/Projects/startup_scripts/profile_selector.py"; xdotool key Return
