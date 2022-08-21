@@ -1,0 +1,1 @@
+@reboot /home/fiona/Projects/startup_scripts/startup.sh
