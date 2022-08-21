@@ -9,7 +9,7 @@ joplin &
 code &
 sleep 2 &&
 wmctrl -s 2 &&
-ytmdesktop > /dev/null &
+ytmdesktop 1>/dev/null 2>/dev/null & 
 sleep 2 && 
 wmctrl -s 0 # move to virtual desktop 1
 # && wmctrl -r :ACTIVE: -t 1; wmctrl -s 1
