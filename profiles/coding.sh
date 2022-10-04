@@ -5,7 +5,7 @@ konsole & # `&` executes next line even if previous command hasn't finished exec
 firefox & 
 sleep 2 && # `&&` executes next line only if previous command has finished executing
 wmctrl -s 1 && # move to virtual desktop 2 (Desktop numbering starts at 0)
-joplin &
+joplin-desktop &
 code &
 sleep 2 &&
 wmctrl -s 2 &&
