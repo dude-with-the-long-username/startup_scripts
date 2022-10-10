@@ -1,1 +1,1 @@
-@reboot /home/fiona/Projects/startup_scripts/startup.sh
+@reboot /home/fiona/Projects/startup_scripts/startup_profile_selector.sh 
